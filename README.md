@@ -1,4 +1,5 @@
 **Overview**
+
 By collecting, processing, and analyzing author data from top OR journals, this study investigates how gender representation has evolved over time and across different venues. Machine learning models are applied to classify author genders based on their first names, and the results are visualized to highlight trends and disparities.
 
 **Tools & Methodologies**
